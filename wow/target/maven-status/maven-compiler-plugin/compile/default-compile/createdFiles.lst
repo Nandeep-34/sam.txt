@@ -1,0 +1,7 @@
+com\wow\model\Key.class
+com\wow\service\ODataJPACarServiceFactory$EmfHolder.class
+com\wow\model\Address.class
+com\wow\model\Car.class
+com\wow\model\Driver.class
+com\wow\model\Manufacturer.class
+com\wow\service\ODataJPACarServiceFactory.class
